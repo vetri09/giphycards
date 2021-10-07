@@ -1,0 +1,112 @@
+.share_container {
+    width: 800px;
+    margin: auto;
+    margin-bottom: 100px;
+}
+.share_add_btn {
+    margin-bottom: 10px;
+}
+.share_box {
+    background-color: #DCDCDC;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 50px;
+}
+.share_content {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+.content_text {
+    border: 1px solid #C0C0C0;
+    outline: none;
+    padding: 10px;
+    margin-bottom: 5px;
+    font-size: 22px;
+}
+.add_btn {
+    background-color: #FF00E5;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    width: 90px;
+    padding: 10px;
+    font-size: 15px;
+    margin-bottom: 50px;
+}
+.add_btn:hover {
+    transition: 500ms;
+    background-color: #FF02A7;
+}
+.cancel_btn {
+    background-color: #fc1d4d;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    width: 120px;
+    padding: 10px;
+    font-size: 15px;
+}
+.cancel_btn:hover {
+    transition: 500ms;
+    background-color: #a30f2f;
+}
+.gif_btn {
+    background-color: #FF00E5;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    display: block;
+    width: 90px;
+    padding: 10px;
+    font-size: 15px;
+}
+.gif_btn:hover {
+    transition: 500ms;
+    background-color: #FF02A7;
+}
+.post_btn {
+    background-color: #00C6CF;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    width: 90px;
+    padding: 10px;
+    font-size: 15px;
+}
+.post_btn:hover {
+    transition: 500ms;
+    background-color: #27D5C3;
+}
+.gif_section {
+    position: relative;
+}
+.gif_main {
+    width: 400px;
+    height: 500px;
+    overflow: scroll;
+    background-color: #c9c9c9;
+    position: absolute;
+    top: 50px;
+    padding: 20px;
+}
+.gif_input {
+    border: none;
+    outline: none;
+    width: 90%;
+    padding: 8px;
+    margin-bottom: 10px;
+}
+.gif_img {
+    width: 93%;
+}
+.gif_preview {
+    display: block;
+    margin: auto;
+    width: 450px;
+    height: 350px;
+}

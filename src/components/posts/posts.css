@@ -1,0 +1,8 @@
+.post_container {
+    width: 800px;
+    margin: auto;
+    padding: 20px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
